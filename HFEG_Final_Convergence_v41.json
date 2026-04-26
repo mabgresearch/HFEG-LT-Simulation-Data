@@ -1,0 +1,18 @@
+{
+    "pipeline_version": "HFEG-LT v4.1",
+    "technical_configuration": {
+        "base_resonance_khz": 50.25,
+        "pump_frequency_khz": 150.75,
+        "Q_factor": 1116.11,
+        "power_limit_W": 2800000.0,
+        "initial_delta_m": 0.2614
+    },
+    "convergence_analysis": {
+        "original_toroidal_req_J": -8608000000000000.0,
+        "new_threshold_req_J": -318814814814814.8,
+        "dce_negative_energy_generated_J": -601463866230000.0,
+        "gap_status": "CLOSED",
+        "orders_of_magnitude_closed": 9.487744226980094,
+        "net_energy_surplus_J": 282649051415185.2
+    }
+}
