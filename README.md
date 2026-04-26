@@ -12,4 +12,4 @@ La auditoría identificó una discrepancia de **15 órdenes de magnitud** entre 
 
 ## Referencia Académica
 Este trabajo está registrado en Zenodo:
-**DOI:** [Pega aquí el DOI que te dio Zenodo]
+**DOI:** 10.5281/zenodo.19799008
